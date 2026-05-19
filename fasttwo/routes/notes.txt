@@ -1,0 +1,18 @@
+usage:Applicaton root
+Rest api url:http://127.0.0.1:8000
+method type:GET
+required fields:None
+access type: public
+
+usage:Applicaton about
+Rest api url:http://127.0.0.1:8000
+method type:GET
+required fields:None
+access type: public
+
+
+usage:Applicaton get all users
+Rest api url:http://127.0.0.1:8000
+method type:GET
+required fields:None
+access type: public
